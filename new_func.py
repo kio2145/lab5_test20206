@@ -1,11 +1,3 @@
-print('hello_2')
-print('hello_2')
-print('hello_2')
-print('hello_2')
-print('hello_2')
-print('hello_2')
-print('hello_2')
-print('hello_2')
-print('hello_2')
-print('hello_2')
-print('hello_2')
+c = 1000
+x = 1000
+b = c + x
